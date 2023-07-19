@@ -1,0 +1,198 @@
+{
+  "project_info": {
+    "project_number": "447915397626",
+    "project_id": "ywork-1",
+    "storage_bucket": "ywork-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447915397626:android:0c79eb37f74cb184d6d443",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447915397626-6gfiqnisp13m0lrt8jghbhllv2rlblua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl9K2MLPTDjNqYbucj2k8BnhpElgl-jzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447915397626-6gfiqnisp13m0lrt8jghbhllv2rlblua.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "447915397626-3tj522k07n91h46vltj18h5juj700qdd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "in.ywork.admin.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447915397626:android:2b764b517aa4de2cd6d443",
+        "android_client_info": {
+          "package_name": "in.ycorp.ywork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447915397626-o1d48lqfko6j7s839dm92eh5fg5fqu93.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.ycorp.ywork",
+            "certificate_hash": "67301539a8cd2f137bfd856f5b76e2f215fb8364"
+          }
+        },
+        {
+          "client_id": "447915397626-6gfiqnisp13m0lrt8jghbhllv2rlblua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl9K2MLPTDjNqYbucj2k8BnhpElgl-jzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447915397626-6gfiqnisp13m0lrt8jghbhllv2rlblua.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "447915397626-3tj522k07n91h46vltj18h5juj700qdd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "in.ywork.admin.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447915397626:android:716e81177e11706fd6d443",
+        "android_client_info": {
+          "package_name": "in.ycorp.yworkagent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447915397626-6gfiqnisp13m0lrt8jghbhllv2rlblua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl9K2MLPTDjNqYbucj2k8BnhpElgl-jzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447915397626-6gfiqnisp13m0lrt8jghbhllv2rlblua.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "447915397626-3tj522k07n91h46vltj18h5juj700qdd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "in.ywork.admin.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447915397626:android:c6257603c21c90a4d6d443",
+        "android_client_info": {
+          "package_name": "in.ycorp.yworkshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447915397626-6gfiqnisp13m0lrt8jghbhllv2rlblua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl9K2MLPTDjNqYbucj2k8BnhpElgl-jzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447915397626-6gfiqnisp13m0lrt8jghbhllv2rlblua.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "447915397626-3tj522k07n91h46vltj18h5juj700qdd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "in.ywork.admin.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447915397626:android:f087868365b350f1d6d443",
+        "android_client_info": {
+          "package_name": "in.ywork.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447915397626-6gfiqnisp13m0lrt8jghbhllv2rlblua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl9K2MLPTDjNqYbucj2k8BnhpElgl-jzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447915397626-6gfiqnisp13m0lrt8jghbhllv2rlblua.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "447915397626-3tj522k07n91h46vltj18h5juj700qdd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "in.ywork.admin.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
